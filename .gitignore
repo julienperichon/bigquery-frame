@@ -16,3 +16,6 @@ htmlcov/
 # Python Poetry
 poetry.lock
 dist/
+
+# Python pyenv
+.python-version
